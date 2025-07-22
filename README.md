@@ -2,8 +2,8 @@
 
 *Why do customers leave, and what can we learn before they do?*
 
-This project explores customer churn behavior in a telecom company using Python and visualized insights via Looker Studio.  
-Instead of building a machine learning model, I focused on finding **meaningful business insights** through clean EDA and a concise dashboard.
+>This project explores customer churn behavior in a telecom company using Python and visualized insights via Looker Studio. Instead of building a machine learning model, I focused on finding **meaningful business insights** through clean EDA and a concise dashboard.
+
 🔗Dashboard: https://lookerstudio.google.com/reporting/40eb37e0-6739-4507-8496-f2facf91e6c1
 
 ---
